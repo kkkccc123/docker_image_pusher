@@ -3,5 +3,5 @@ xhofe/alist:latest
 jellyfin/jellyfin:latest
 linuxserver/jackett:latest
 linuxserver/qbittorrent:latest
-alanpk716/chinesesubfinder:latest-lite
+allanpk716/chinesesubfinder:latest-lite
 diluka/nas-tools:2.9.1
