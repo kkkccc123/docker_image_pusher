@@ -1,4 +1,4 @@
 nginx
 xhofe/alist:latest
-jellyfin:latest
-jackett:latest
+jellyfin/jellyfin:latest
+linuxserver/jackett
