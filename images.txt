@@ -1,6 +1,6 @@
 nginx
 jellyfin/jellyfin
-linuxserver/jackett
+linuxserver/jackett:0.22.1726
 linuxserver/qbittorrent
-allanpk716/ChineseSubFinder
-jxxghp/moviepilot-v2
+allanpk716/chinesesubfinder:latest
+jxxghp/moviepilot:latest
