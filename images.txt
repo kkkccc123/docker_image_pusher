@@ -1,9 +1,6 @@
 nginx
-xhofe/alist:latest
-jellyfin/jellyfin:latest
-linuxserver/jackett:latest
-linuxserver/qbittorrent:latest
-allanpk716/chinesesubfinder:latest-lite
-diluka/nas-tools:2.9.1
-nastool/nas-tools:latest
-flaresolverr/flaresolverr:latest
+jellyfin/jellyfin
+linuxserver/jackett
+linuxserver/qbittorrent
+allanpk716/ChineseSubFinder
+jxxghp/moviepilot-v2
